@@ -1,0 +1,47 @@
+ WunderSlider                                                      LICENSE.txt
+ 
+ Copyright 2012 "kento" (Karim Rahimpur) www.itthinx.com
+ 
+ The files COPYRIGHT.txt and LICENSE.txt as well as ALL NOTICES IN THE
+ HEADERS OF ALL FILES MUST BE KEPT INTACT.
+
+ =============================================================================
+ 
+  You MUST be granted a license by the copyright holder before using this
+  software.
+  
+  If you have not been granted a license DO NOT USE this software until you
+  have BEEN GRANTED A LICENSE.
+  
+  Use of this software without a granted license constitutes an act of
+  COPYRIGHT INFRINGEMENT and LICENSE VIOLATION and may result in legal action
+  taken against the offending party.
+  
+  Being granted a license is GOOD because you will get support and contribute
+  to the development of useful free and premium themes, plugins and software
+  that you will be able to enjoy.
+  
+  Thank you!
+  
+  Visit www.wunderslider.com or www.itthinx.com for more information.
+ 
+ =============================================================================
+
+You accept and agree to be bound by this/these license agreement/s by using
+the plugin / software / program.
+
+*****************************************************************************
+*** The following license applies to ALL files except otherwise stated.   ***
+*** If you have not been granted a license explicitly or if you have not  ***
+*** received a copy of that license, please get in touch with the         ***
+*** copyright holder at http://www.itthinx.com                            ***
+*****************************************************************************
+
+
+
+                         The license granted applies.
+
+
+                       For license details please visit:
+
+                      http://www.itthinx.net/wunderslider

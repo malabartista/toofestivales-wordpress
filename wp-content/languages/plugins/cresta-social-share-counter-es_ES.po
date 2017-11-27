@@ -1,0 +1,194 @@
+# Translation of Plugins - Cresta Social Share Counter - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Cresta Social Share Counter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-14 16:38:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Cresta Social Share Counter - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://crestaproject.com"
+msgstr "http://crestaproject.com"
+
+#. Author of the plugin/theme
+msgid "CrestaProject - Rizzo Andrea"
+msgstr "CrestaProject - Rizzo Andrea"
+
+#. Description of the plugin/theme
+msgid "<strong>*** <a href=\"http://crestaproject.com/downloads/cresta-social-share-counter/\" target=\"_blank\">Get Cresta Social Share Counter PRO</a> ***</strong> Share your posts and pages quickly and easily with Cresta Social Share Count showing the share count."
+msgstr "<strong>*** <a href=\"http://crestaproject.com/downloads/cresta-social-share-counter/\" target=\"_blank\">Obtén Cresta Social Share Counter PRO</a> ***</strong> Comparte tus entradas y páginas de manera rápida y fácil con Cresta Social Share Count mostrando el número de compartidos."
+
+#. Plugin URI of the plugin/theme
+msgid "http://crestaproject.com/downloads/cresta-social-share-counter/"
+msgstr "http://crestaproject.com/downloads/cresta-social-share-counter/"
+
+#: cresta-social-share-counter.php:690
+msgid "Show on :"
+msgstr "Mostrar en:"
+
+#: cresta-social-share-counter.php:686
+msgid "wherever you want to display the social buttons."
+msgstr "en el lugar que quieras mostrar los botones sociales."
+
+#: cresta-social-share-counter.php:686
+msgid "You can place the shortcode"
+msgstr "Puedes colocar el shortcode"
+
+#: cresta-social-share-counter.php:683
+msgid "Center"
+msgstr "Centro"
+
+#: cresta-social-share-counter.php:683
+msgid "Buttons Position (in content):"
+msgstr "Posición de los botones (en el contenido):"
+
+#: cresta-social-share-counter.php:680
+msgid "Add Social Buttons after post/page content"
+msgstr "Añade los botones sociales después del contenido de la entrada/página"
+
+#: cresta-social-share-counter.php:677
+msgid "Add Social Buttons before post/page content"
+msgstr "Añade los botones sociales antes del contenido de la entrada/página"
+
+#: cresta-social-share-counter.php:675
+msgid "Post and Page Position :"
+msgstr "Posición en entradas y páginas:"
+
+#: cresta-social-share-counter.php:671
+msgid "Show CrestaProject Credit :)"
+msgstr "Muestra los créditos de CrestaProject :)"
+
+#: cresta-social-share-counter.php:668
+msgid "Disable Floating Buttons On Mobile"
+msgstr "Inhabilita los botones flotantes en móviles "
+
+#: cresta-social-share-counter.php:665
+msgid "Enable button to hide/show the floating buttons"
+msgstr "Habilita el botón para ocultar/mostrar los botones flotantes"
+
+#: cresta-social-share-counter.php:663
+msgid "Increase this number if the floating buttons are covered by other items on the screen."
+msgstr "Incrementa este número si los botones flotantes están cubiertos por otros elementos en la pantalla."
+
+#: cresta-social-share-counter.php:663
+msgid "Z-Index:"
+msgstr "Z-index:"
+
+#: cresta-social-share-counter.php:661
+msgid "Position From Left or Right:"
+msgstr "Posición desde la izquierda o la derecha:"
+
+#: cresta-social-share-counter.php:659
+msgid "Position From Top:"
+msgstr "Posición desde arriba:"
+
+#: cresta-social-share-counter.php:656 cresta-social-share-counter.php:683
+msgid "Right"
+msgstr "Derecha"
+
+#: cresta-social-share-counter.php:656 cresta-social-share-counter.php:683
+msgid "Left"
+msgstr "Izquierda"
+
+#: cresta-social-share-counter.php:656
+msgid "Float Buttons Position:"
+msgstr "Posición de los botones flotantes:"
+
+#: cresta-social-share-counter.php:653
+msgid "Show Floating Buttons"
+msgstr "Mostrar los botones flotantes"
+
+#: cresta-social-share-counter.php:651
+msgid "Float Position :"
+msgstr "Posición flotante:"
+
+#: cresta-social-share-counter.php:647
+msgid "Total Shares Text:"
+msgstr "Texto del total de compartidos:"
+
+#: cresta-social-share-counter.php:644
+msgid "Show Total Shares"
+msgstr "Muestra el total de compartidos"
+
+#: cresta-social-share-counter.php:641
+msgid "Visible only on floating buttons, buy the PRO version to use it in the content"
+msgstr "Sólo es visible en los botones flotantes, compra la versión Pro para usarlo en el contenido"
+
+#: cresta-social-share-counter.php:640
+msgid "Show Social Counter"
+msgstr "Muestra el contador social"
+
+#: cresta-social-share-counter.php:637
+msgid "Social Counter Box: Use the same colors of social network"
+msgstr "Caja de contadores sociales: Utiliza los mismos colores de las redes sociales"
+
+#: cresta-social-share-counter.php:634
+msgid "Enable animation"
+msgstr "Habilita la animación"
+
+#: cresta-social-share-counter.php:631
+msgid "Enable shadow on the buttons"
+msgstr "Habilita la sombra en los botones"
+
+#: cresta-social-share-counter.php:628
+msgid "Enable reflection on the buttons"
+msgstr "Habilita el reflejo en los botones"
+
+#: cresta-social-share-counter.php:626
+msgid "Display Setting :"
+msgstr "Ajustes visuales:"
+
+#: cresta-social-share-counter.php:585
+msgid "Choose buttons style :"
+msgstr "Elige el estilo de los botones:"
+
+#: cresta-social-share-counter.php:578
+msgid "(only visible on smartphones Android and iPhone)"
+msgstr "(sólo visible en smartphones Android y iPhone)"
+
+#: cresta-social-share-counter.php:563 cresta-social-share-counter.php:566
+#: cresta-social-share-counter.php:569 cresta-social-share-counter.php:572
+#: cresta-social-share-counter.php:575 cresta-social-share-counter.php:578
+#: cresta-social-share-counter.php:581
+msgid "PRO version"
+msgstr "Versión Pro"
+
+#: cresta-social-share-counter.php:548
+msgid "Twitter username (optional):"
+msgstr "Nombre de usuario de Twitter (opcional):"
+
+#: cresta-social-share-counter.php:540
+msgid "Select buttons to display on website :"
+msgstr "Selecciona los botones a mostrar en el sitio web:"
+
+#: cresta-social-share-counter.php:533
+msgid "Cresta Social Share Counter Settings"
+msgstr "Ajustes de Cresta Social Share Counter"
+
+#: cresta-social-share-counter.php:460
+msgid "Settings Saved..."
+msgstr "Ajustes guardados…"
+
+#: cresta-social-share-counter.php:457
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+#: cresta-social-share-counter.php:33
+msgid "Settings"
+msgstr "Ajustes"
+
+#: cresta-metabox.php:29
+msgid "Hide icons in this page?"
+msgstr "¿Ocultar los iconos en esta página?"
+
+#. #-#-#-#-#  tmp-cresta-social-share-counter.pot (Cresta Social Share Counter
+#. 2.5.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: cresta-metabox.php:14
+msgid "Cresta Social Share Counter"
+msgstr "Cresta Social Share Counter"

@@ -1,0 +1,19 @@
+/*!
+ * wunderslider.css
+ *
+ * Copyright (c) "kento" Karim Rahimpur www.itthinx.com
+ *
+ * This code is provided subject to the license granted.
+ * Unauthorized use and distribution is prohibited.
+ * See COPYRIGHT.txt and LICENSE.txt
+ *
+ * This code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This header and all notices must be kept intact.
+ *
+ * @author Karim Rahimpur
+ * @package wunderslider-demo
+ * @since wunderslider 1.0.0
+ */.wunderslider-wrapper{box-shadow:0 0 5px 1px #000}.wunderslider-wrapper .preload{display:none;background-image:url('images/next-hover.png');background-image:url('images/previous-hover.png');background-image:url('images/selector-active.png');background-image:url('images/selector-hover.png')}.wunderslider img{background:0;border:0;float:none;margin:0;max-height:none;max-width:none;padding:0}.wunderslider .pane .caption{font-family:sans-serif;position:absolute;background:#111;color:#fff;opacity:.62;width:100%;border-top:1px solid #333;border-bottom:1px solid #333;padding:10px 0 14px 0;min-height:36px;bottom:0;font-size:16px;line-height:18px}.wunderslider .pane .caption-content{color:#fff}.wunderslider .pane .caption-content a{color:#fff;text-decoration:none}.wunderslider .pane .caption-content .title{display:block;font-size:1.2em;padding:4px}.wunderslider .pane .caption-content .description{font-size:.9em;padding:4px 6px}.wunderslider .pane .selectors{position:absolute;width:100%;bottom:0;left:0;text-align:right}.wunderslider .pane .selectors-content{margin:0;padding:0 6px 0 0}.wunderslider .pane .selector{background:url(images/selector.png) no-repeat center center;width:32px;height:32px;display:inline-block;padding:0;cursor:pointer}.wunderslider .pane .selector:hover{background:url(images/selector-hover.png) no-repeat center center}.wunderslider .pane .selector.active{background:url(images/selector-active.png) no-repeat center center}.wunderslider .nav{position:absolute;bottom:40px;right:8px;width:72px}.wunderslider .previous{position:absolute;bottom:0;left:0;background:url(images/previous.png) no-repeat center center;cursor:pointer;width:32px;height:32px}.wunderslider .previous:hover,.wunderslider .previous.hover{background:url(images/previous-hover.png) no-repeat center center}.wunderslider .next{position:absolute;bottom:0;right:0;background:url(images/next.png) no-repeat center center;cursor:pointer;width:32px;height:32px}.wunderslider .next:hover,.wunderslider .next.hover{background:url(images/next-hover.png) no-repeat center center}.wunderslider .throbber-wrapper{position:absolute;top:50%;left:50%}.wunderslider .throbber{background:url(images/throbber.gif) #fff center center no-repeat;width:16px;height:16px;position:absolute;top:-8px;left:-8px}.wunderslider .pane .clickable{position:absolute;left:0;top:0;width:100%;height:100%}.IE9 span.clickable{background-color:#fff;opacity:.0}.IE9 span.clickable:hover{background-color:#000;opacity:.0}

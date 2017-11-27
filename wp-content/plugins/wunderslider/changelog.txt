@@ -1,0 +1,9 @@
+WunderSlider plugin changelog
+
+- 1.1.0
+
+  * Updated: Using WunderSlider core 1.4.0.
+  * Changed: Support for Internet Explorer 8 and below has been dropped (also in WunderSlider core).
+  * Changed: jQuery 1.10.2 or above is required (based on the WunderSlider core requirements).
+  * Changed: At least WordPress 3.6 is required to meet the minimum jQuery 1.10.2 requirement.
+  * WordPress 3.7.1 compatibility tested.

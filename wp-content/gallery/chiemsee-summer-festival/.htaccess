@@ -1,0 +1,7 @@
+# BEGIN NextGEN Pro Protection
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule _backup$ - [L,F]
+</IfModule>
+# END NextGEN Pro Protection
