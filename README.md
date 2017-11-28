@@ -1,6 +1,6 @@
 # [TooFestival.es](http://toofestival.es/) - WordPress
 
-Our [WordPress](https://wordpress.org/) with the most popular [Events Management plugin](http://wp-events-plugin.com/).
+Our [WordPress](https://wordpress.org/) with the most popular [Events Management](http://wp-events-plugin.com/) plugin.
 
 Quickly and easily create events, accept bookings, and manage attendees.
 
