@@ -8,6 +8,10 @@ Quickly and easily create events, accept bookings, and manage attendees.
 
 Access the WordPress site's data through an easy-to-use HTTP REST API.
 
+## Contents
+- [Installation](#installation)
+- [REST API](#rest-api)
+
 ## Installation
 
 ## REST API
