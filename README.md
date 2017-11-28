@@ -6,8 +6,6 @@ Our [WordPress](https://wordpress.org/) with the most popular [Events Management
 
 Quickly and easily create events, accept bookings, and manage attendees.
 
-Access the WordPress site's data through an easy-to-use HTTP REST API.
-
 ## Contents
 - [Installation](#installation)
 - [REST API](#rest-api)
@@ -16,9 +14,7 @@ Access the WordPress site's data through an easy-to-use HTTP REST API.
 
 ## REST API
 
-The WordPress REST API is organized around REST, and is designed to have predictable, resource-oriented URLs and to use HTTP response codes to indicate API errors. The API uses built-in HTTP features, like HTTP authentication and HTTP verbs, which can be understood by off-the-shelf HTTP clients, and supports cross-origin resource sharing to allow you to interact securely with the API from a client-side web application.
-
-The REST API uses JSON exclusively as the request and response format, including error responses. While the REST API does not completely conform to the HAL standard, it does implement HAL’s ._links and ._embedded properties for linking API resources, and is fully discoverable via hyperlinks in the responses.
+Access the WordPress site's data through an easy-to-use HTTP REST API.
 
 ### REST API Developer Endpoint Reference
 
