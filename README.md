@@ -16,6 +16,13 @@ Install [Wamp Server](http://www.wampserver.com/en/)
 
 Enable Apache Modules:  rewrite_module, filter_module
 
+Unzip or Clone the repository into the folder www in wamp.
+
+Created a MySQL database (toofestival.es) for WordPress using phpMyAdmin.
+
+Import the database from database/tf_schema.sql into the created in the step below. 
+
+
 ## REST API
 
 Access the WordPress site's data through an easy-to-use HTTP REST API.
