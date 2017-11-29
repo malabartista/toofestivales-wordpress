@@ -12,6 +12,10 @@ Quickly and easily create events, accept bookings, and manage attendees.
 
 ## Installation
 
+Install [Wamp Server](http://www.wampserver.com/en/)
+
+Enable Apache Modules:  rewrite_module, filter_module
+
 ## REST API
 
 Access the WordPress site's data through an easy-to-use HTTP REST API.
